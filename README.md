@@ -290,7 +290,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [`commit #3 from CLI`](https://github.com/wcox2/learn-git-milestones/commit/514e31212fb330ad7c8d9631d95fac483b1e6a32)
 2e | 3rd Favorite emoji | 🥸
 2f | Link to `commit #4 from VS Code` | [`commit #4 from VS Code`](https://github.com/wcox2/learn-git-milestones/commit/1ade0f4e6abff50ef5995cb35a885aaa2e8c0bbd)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | [Link](https://github.com/wcox2/my-awesome-project/commit/07dedde5b32635c3037df185bdfda765e81be3bb)
 4a | Link to `my-awesome-project` github.io "project site" |
 
 
