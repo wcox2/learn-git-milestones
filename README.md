@@ -281,11 +281,11 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😎
-1b | Link to `commit #1 from Github.com` | ['commit #1 from Github.com'](https://github.com/wcox2/learn-git-milestones/commit/fb2bffe246b11df5b97ff39e464d14d525361741)
+1b | Link to `commit #1 from Github.com` | [`commit #1 from Github.com`](https://github.com/wcox2/learn-git-milestones/commit/fb2bffe246b11df5b97ff39e464d14d525361741)
 1c | Link to markdown tables docs | [Link](https://www.pluralsight.com/guides/working-tables-github-markdown)
 1d | What does `log` do? | log shows the repositories history
 2a | 2nd Favorite emoji | 😂
-2b | Link to `commit #2 from Github Desktop` | ['commit #2 from Github.com'](https://github.com/wcox2/learn-git-milestones/commit/0ce1da380668f09acdf231a1295c054613127ed0)
+2b | Link to `commit #2 from Github Desktop` | [`commit #2 from Github Desktop`](https://github.com/wcox2/learn-git-milestones/commit/0ce1da380668f09acdf231a1295c054613127ed0)
 2c | Full path to your working directory | /Users/willcox/Documents/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [`commit #3 from CLI`](https://github.com/wcox2/learn-git-milestones/commit/514e31212fb330ad7c8d9631d95fac483b1e6a32)
 2e | 3rd Favorite emoji | 🥸
