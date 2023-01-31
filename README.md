@@ -286,7 +286,7 @@ Item # | Description | Completed
 1d | What does `log` do? | log shows the repositories history
 2a | 2nd Favorite emoji | 😂
 2b | Link to `commit #2 from Github Desktop` | ['commit #2 from Github.com'](https://github.com/wcox2/learn-git-milestones/commit/0ce1da380668f09acdf231a1295c054613127ed0)
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/willcox/Documents/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from VS Code` |
